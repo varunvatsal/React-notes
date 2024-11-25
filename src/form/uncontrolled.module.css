@@ -1,0 +1,11 @@
+.formDes{
+    height: 300px;
+    width: 500px; background-color: #82e239;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 7px ;
+    /* max-width: fit-content; */
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 6px 6px 5px #459705;
+}
